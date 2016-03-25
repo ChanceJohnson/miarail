@@ -1,0 +1,56 @@
+/*
+ Theme Name:   Tonal-Child
+ Theme URI:    http://example.com/tonal-child/
+ Description:  Tonal Child Theme
+ Author:       Chance Johnson
+ Author URI:   http://math.seattleacademy.org/chancejohnson
+ Template:     tonal
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  tonal-child
+*/
+
+@import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
+
+.entry-content{
+	font-family: 'Bitter', serif;
+	font-weight: 400;
+	color: black;
+}
+.content-area{
+	background-color: #E3E0C9;
+}
+.entry-title{
+	font-family: 'Bitter', serif;
+	font-weight: 700;
+	color:#ACD4CB;
+
+}
+.border{
+	border-color: #E3E0C9;
+}
+
+.site-title{
+	color:#D4A9CE;
+}
+
+.site-branding{
+	font-weight:700;
+	background-color:#E3E0C9;
+	
+}
+.site-description{
+	font-weight: 400;
+}
+.body{
+	background-color:#E3E0C9;
+
+}
+.site-footer{
+	background-color:#E3E0C9;
+	font-family: 'Bitter', serif;
+	font-weight: 400;
+	color: #EEEFE0;
+}
